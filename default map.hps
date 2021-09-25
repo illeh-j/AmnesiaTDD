@@ -1,0 +1,23 @@
+//Default file with no code//
+////////////////////////////
+
+////
+//This runs on map first-time load//
+////
+void onStart()
+{
+}
+
+/////
+//This runs when the map is entered//
+////
+void onEnter()
+{
+}
+
+/////
+//This runs when the map is exited//
+////
+void onExit()
+{
+}
