@@ -1,0 +1,11 @@
+//Timer setup//
+//////////////
+
+AddTimer("tut01", 5,"TutorialTimer01");
+
+//Timer execute//
+////////////////
+
+void TimerTutorial01(string &in asTimer)
+{
+}
